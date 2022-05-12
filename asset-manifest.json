@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_cardform/static/css/main.ced96001.css",
+    "main.js": "/React_cardform/static/js/main.a0c3867f.js",
+    "static/js/787.ecdbb280.chunk.js": "/React_cardform/static/js/787.ecdbb280.chunk.js",
+    "index.html": "/React_cardform/index.html",
+    "main.ced96001.css.map": "/React_cardform/static/css/main.ced96001.css.map",
+    "main.a0c3867f.js.map": "/React_cardform/static/js/main.a0c3867f.js.map",
+    "787.ecdbb280.chunk.js.map": "/React_cardform/static/js/787.ecdbb280.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ced96001.css",
+    "static/js/main.a0c3867f.js"
+  ]
+}
